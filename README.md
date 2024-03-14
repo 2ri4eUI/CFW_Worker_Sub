@@ -1,3 +1,4 @@
+[آموزش به زبان فارسی](https://github.com/2ri4eUI/CFW_Worker_Sub/blob/main/README_FA.md)
 ## IP API FOR CFW BOT
 
 in this repo in will instruct how to create your own backend for CFW-BOT subscription workers
